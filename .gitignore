@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+
+# Editor directories and IDE files
+.vscode/
+
+# Test and coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Data and model artifacts
+archive/
+model_artifacts/
+*.joblib
+image_predictions.csv
+predictions.csv
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
